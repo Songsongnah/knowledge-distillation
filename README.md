@@ -5,7 +5,7 @@
 ![](pc1.png)
 ## 课设报告论文
 知识蒸馏理论推导参见课设报告、小组信息及课设报告[点击此处下载](https://pan.baidu.com/s/1npay0u4kcOk1Y9ctPYjBUA)</br>
-密码：学校英文简称前两位加上学号第五六位
+密码：学校英文简称
 ## 代码运行方法
 * 1.先将flower数据集下载解压到data_set/flower_data文件夹下，具体方法见data_set的README文件
 * 2.执行split_data.py
